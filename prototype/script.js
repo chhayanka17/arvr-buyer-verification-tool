@@ -1,3 +1,1 @@
-function showUnboxing() {
-  alert("Virtual Unboxing Started (Concept Demo)");
-}
+console.log("Prototype loaded – AR/VR concept demo");
