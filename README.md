@@ -1,49 +1,67 @@
-# AR/VR Buyer Verification Tool for E-Commerce
+# 🥽 AR/VR Buyer Verification Tool for E-Commerce
 
-## Overview
-This project is a **buyer-oriented AR/VR verification tool** designed to help users verify the authenticity of electronic devices before purchasing from any seller.
+> A buyer-oriented AR/VR verification tool to help users verify the authenticity of electronic devices before purchasing from any seller.
 
-⚠️ This is NOT a shopping platform.  
-It is a **support tool** to save buyer time, money, and prevent fraud.
+⚠️ **This is NOT a shopping platform.** It is a support tool designed to save buyer time, money, and prevent fraud.
 
 ---
 
-## Problem
-Buyers cannot verify internal components or authenticity online, leading to:
-- Fraud sellers
-- Mismatched devices
-- Returns and loss of trust
+## 🔗 Figma Prototype
+[View Interactive Prototype →](https://www.figma.com/make/0spGjbNv0FMlX9NIzkxPOp/Electroverse?t=tRxNiiai19xG8OFo-1)
 
 ---
 
-## Solution
-- 3D Exploded Device Inspection
-- Virtual Unboxing Simulation
-- Component Comparison with Original Specs
-- Fraud / Mismatch Indicators
-- Confidence-Based Verification
+## 🚨 Problem
+
+Buyers cannot verify internal components or authenticity of devices online, leading to:
+- Fraud sellers misrepresenting products
+- Mismatched devices sent to buyers
+- Unnecessary returns and loss of trust
 
 ---
 
-## Prototype
-A lightweight frontend prototype demonstrating feasibility is included.
+## 💡 Solution
 
-📁 `prototype/` – HTML/CSS/JS demo  
-🎨 `assets/` – Design assets from Figma  
+| Feature | Description |
+|---|---|
+| 🔩 3D Exploded Device Inspection | Virtually inspect internal components before buying |
+| 📦 Virtual Unboxing Simulation | Experience the product before it arrives |
+| 📋 Component Comparison | Match specs against manufacturer originals |
+| 🚩 Fraud / Mismatch Indicators | Instant alerts for suspicious listings |
+| ✅ Confidence-Based Verification | Buyer gets a trust score before purchasing |
+
+---
 
 ## 🧠 Tech Stack
-- HTML / CSS / JavaScript
-- Figma (UI/UX Design & Prototype)
-- GitHub (Version Control)
 
-## 🎨 Figma Prototype
-🔗 https://www.figma.com/make/0spGjbNv0FMlX9NIzkxPOp/Electroverse?t=tRxNiiai19xG8OFo-1
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📁 Project Structure
+```
+arvr-buyer-verification-tool/
+├── prototype/       ← HTML/CSS/JS frontend demo
+├── assets/          ← Design assets from Figma
+└── README.md
+```
+
+---
 
 ## 👥 Team
-- Chhayanka Dabhadker
-- Aanya Dubey
-- Aditya Lokhande
-- Deepanshu Sinha
+
+| Name | GitHub |
+|---|---|
+| Chhayanka Dabhadker | [@chhayanka17](https://github.com/chhayanka17) |
+| Aanya Dubey | — |
+| Aditya Lokhande | — |
+| Deepanshu Sinha | — |
+
+---
 
 ## 📄 License
-This project is for educational and competition purposes.
+This project was built for educational and competition purposes.
